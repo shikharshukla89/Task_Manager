@@ -17,5 +17,5 @@ Project is created with:
 * Postman
 	
 ## Setup
-$ To run this project, download all the folders. Import it in intellij or eclipse.
+$ To run this project, download all the folders. Import it in intellij or eclipse.                                                                                                 
 $ Check the database setting according to your system.
